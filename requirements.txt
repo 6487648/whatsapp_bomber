@@ -1,3 +1,4 @@
 pyautogui
 selenium
 webbrowser
+os
